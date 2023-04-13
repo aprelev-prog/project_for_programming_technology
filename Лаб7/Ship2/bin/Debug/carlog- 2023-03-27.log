@@ -1,0 +1,23 @@
+2023-03-27 00:02:27.7277|INFO|Ship2.FormMapWithSetShips|Выбор карты 1
+2023-03-27 00:02:27.7547|INFO|Ship2.FormMapWithSetShips|Добавлена карта  1
+2023-03-27 00:02:29.3251|INFO|Ship2.FormMapWithSetShips|Добавление объекта
+2023-03-27 00:02:39.3568|INFO|Ship2.FormMapWithSetShips|Выбор карты 1
+2023-03-27 00:02:39.3568|INFO|Ship2.FormMapWithSetShips|Добавлена карта  2
+2023-03-27 00:02:40.3108|INFO|Ship2.FormMapWithSetShips|Выбор карты 2
+2023-03-27 00:02:41.2131|INFO|Ship2.FormMapWithSetShips|Добавление объекта
+2023-03-27 00:03:07.5333|INFO|Ship2.FormMapWithSetShips|Файл C:\Users\alcht\Desktop\Лабы РПП\Лаб7\123.txt не сохранился: Такой файл уже существует!
+2023-03-27 00:03:22.7958|INFO|Ship2.FormMapWithSetShips|Сохранение файла C:\Users\alcht\Desktop\Лабы РПП\Лаб7\Проверка.txt
+2023-03-27 00:03:32.2215|INFO|Ship2.FormMapWithSetShips|Выбор карты 1
+2023-03-27 00:03:32.2484|INFO|Ship2.FormMapWithSetShips|Загрузка файла C:\Users\alcht\Desktop\Лабы РПП\Лаб7\Проверка.txt
+2023-03-27 00:03:33.5573|INFO|Ship2.FormMapWithSetShips|Выбор карты 2
+2023-03-27 00:03:34.1573|INFO|Ship2.FormMapWithSetShips|Выбор карты 1
+2023-03-27 00:03:42.6829|INFO|Ship2.FormMapWithSetShips|Выбор карты 2
+2023-03-27 00:04:07.5266|INFO|Ship2.FormMapWithSetShips|Выбор карты 1
+2023-03-27 00:04:07.5526|INFO|Ship2.FormMapWithSetShips|Загрузка файла C:\Users\alcht\Desktop\Лабы РПП\Лаб7\Проверка.txt
+2023-03-27 00:05:00.9354|INFO|Ship2.FormMapWithSetShips|Выбор карты 1
+2023-03-27 00:05:00.9603|INFO|Ship2.FormMapWithSetShips|Добавлена карта  1
+2023-03-27 00:05:05.4153|INFO|Ship2.FormMapWithSetShips|Добавление объекта
+2023-03-27 00:05:14.5628|INFO|Ship2.FormMapWithSetShips|Вывод набора
+2023-03-27 00:05:15.6170|INFO|Ship2.FormMapWithSetShips|Вывод карты c объектом
+2023-03-27 00:05:24.1159|INFO|Ship2.FormMapWithSetShips|Выбор карты 123
+2023-03-27 00:05:24.1159|INFO|Ship2.FormMapWithSetShips|Загрузка файла C:\Users\alcht\Desktop\Лабы РПП\Лаб7\123.txt
